@@ -1,0 +1,50 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python virtual environments and caches
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Java and general build output
+target/
+build/
+out/
+bin/
+dist/
+*.class
+*.jar
+*.war
+*.ear
+*.egg-info/
+*.db
+*.sqlite
+*.log
+generated_posts/
+logs/
+
+# IDE and local tooling metadata
+.idea/
+.vscode/
+.kilo/
+*.iml
+**/.git.parent-staging-backup/
+
+# OS files
+.DS_Store
+Thumbs.db

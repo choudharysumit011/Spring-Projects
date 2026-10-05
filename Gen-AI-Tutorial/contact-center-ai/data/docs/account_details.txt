@@ -1,0 +1,49 @@
+My Account Details - Complete Guide
+
+Overview
+Your account holds all your personal and billing information. You can access it anytime through the mobile app or web portal.
+
+What Information is Stored
+- Personal details: Name, address, phone number
+- Account number and activation date
+- Service plan details (data, calling minutes, SMS)
+- Billing preferences and payment method
+- Usage history (last 12 months)
+- Device information
+
+How to Access Your Account Online
+1. Open the web portal at myaccount.telecom.com
+2. Enter your username and password
+3. Click "My Profile" in the top menu
+4. You'll see all your account details
+
+How to Access via Mobile App
+1. Download our mobile app from App Store or Google Play
+2. Sign in with your credentials
+3. Tap the "Account" tab at the bottom
+4. View and manage your account details
+
+Viewing Your Account Summary
+The account summary shows:
+- Account holder name
+- Account number (for reference on bills)
+- Service address
+- Current plan and any add-ons
+- Next renewal date
+- Account status (active or inactive)
+
+Updating Your Information
+You can update:
+- Phone number
+- Email address
+- Mailing address
+- Password
+- Communication preferences
+
+To update: Go to Account Settings > Edit Profile > Make changes > Save
+
+Important Security Note
+Never share your account password with anyone. Our support team will never ask for your password.
+
+Contact Support
+If you need help accessing your account, call our support team at 1-800-TELECOM or chat with us online.

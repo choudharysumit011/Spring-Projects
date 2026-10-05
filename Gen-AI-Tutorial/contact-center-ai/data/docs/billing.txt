@@ -1,0 +1,145 @@
+Bill Pay and Payment Methods
+
+Overview
+Managing your bill and making payments is easy. You have multiple payment options and can set up automatic payments.
+
+Payment Methods Accepted
+
+Credit/Debit Cards
+- Visa, Mastercard, American Express, Discover
+- Processing time: Immediate (real-time)
+- Fees: None for debit cards, credit card processing may apply
+- Security: SSL encrypted, PCI-DSS compliant
+
+Bank Account (ACH Direct Debit)
+- Supported: Any US bank account
+- Processing time: 1-3 business days from submission
+- Fees: None
+- Setup: Provide account and routing number
+
+PayPal
+- Supported through website
+- Processing time: 1-2 business days
+- Fees: None
+- Benefits: Don't share bank details directly
+
+Wire Transfer
+- For large payments only ($500+)
+- Processing time: 1-2 business days
+- Fees: Your bank may charge wire fees
+- Contact support for instructions
+
+Mobile Payment Apps
+- Apple Pay, Google Pay, Samsung Pay
+- Processing time: Immediate
+- Fees: None
+- Available through mobile app
+
+How to Pay Online
+
+Step 1: Log In
+- Go to myaccount.telecom.com
+- Enter your username and password
+- Click "Billing" tab
+
+Step 2: Review Your Bill
+- Check billing period and amount due
+- Verify due date (typically 20 days from bill date)
+- Review detailed charges and data usage
+
+Step 3: Make Payment
+- Click "Pay Now"
+- Select payment method
+- Enter payment amount (can be partial or full)
+- Review confirmation details
+- Submit payment
+
+Step 4: Confirmation
+- You'll receive email confirmation immediately
+- Your account will be updated within one business day
+- Payment history available in "Billing" section
+
+How to Set Up Automatic Payments
+
+Benefits
+- Never miss a payment
+- Payment on your chosen date each month
+- Automatic late fee prevention
+- No action required
+
+Setting Up Auto-Pay
+1. Log in to myaccount.telecom.com
+2. Go to Billing > Payment Settings
+3. Click "Set Up Auto-Pay"
+4. Select payment method
+5. Choose payment date (before due date recommended)
+6. Confirm and save
+
+Modifying Auto-Pay
+1. Go to Billing > Payment Settings > Auto-Pay
+2. Change payment method, amount, or date
+3. Update and save
+4. Changes effective next billing cycle
+
+Late Payment and Consequences
+
+Due Date
+- Shown on your bill statement
+- Typically 20 days from invoice date
+- Different for different plan types
+
+Late Payment Fee
+- $10 - $15 depending on bill amount
+- Applied if payment not received by due date
+- Appears on next month's bill
+
+Overdue Account Status
+- Day 30: Email reminder sent
+- Day 45: Service may be restricted
+- Day 60: Service may be suspended
+- Day 90+: Account referred to collections
+
+Getting off Late Payment List
+- Pay full amount owed plus late fees
+- Contact support to discuss payment plan options
+- Negotiate fee waiver for first-time late payments
+
+Billing Disputes
+
+Reporting Unauthorized Charges
+1. Call 1-800-BILL-NOW (1-800-245-5669)
+2. Provide account number and dispute details
+3. Investigation typically takes 30-60 days
+4. Provisional credit while investigating
+
+Understanding Charges
+- Check "Detailed Bill" view
+- Identify data usage, add-ons, and features used
+- Compare with previous month
+- Contact support if charges seem unusual
+
+Payment Policies
+
+Returned Payments
+- If payment is declined, you'll get notification
+- No fee for first return
+- Subsequent returns: $15-$25 fee
+- Re-submit payment immediately to avoid late fees
+
+Payment Plans
+- Available for customers with good payment history
+- Up to 12-month plans
+- No interest charged
+- Contact billing team: billing@telecom.com
+
+Refunds
+- Issued to original payment method
+- Processing time: 5-10 business days
+- For plan cancellations: Prorated within current billing period
+- Cannot refund past due amounts
+
+Contact Billing Support
+- Phone: 1-800-BILL-NOW (1-800-245-5669)
+- Email: billing@telecom.com
+- Chat: Available in mobile app
+- Hours: 24/7 for automated payment, limited hours for live support

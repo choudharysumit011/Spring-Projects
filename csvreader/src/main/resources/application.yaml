@@ -1,0 +1,31 @@
+
+server:
+  port: 8081
+
+spring:
+  application:
+    name: demo
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  datasource:
+    url: jdbc:h2:mem:testdb  # Forces a specific database name
+    driverClassName: org.h2.Driver
+    username: sa
+    password:        # Set your desired password here
+
+  h2:
+    console:
+      enabled: true
+      path: /h2-console   # Explicitly set the path (default is /h2-console)
+
+
+logging:
+  level:
+    org.hibernate.SQL: DEBUG
+    org.hibernate.orm.schema: DEBUG

@@ -1,0 +1,90 @@
+Network Issues - Complete Troubleshooting Guide
+
+Overview
+Network issues can prevent you from making calls, sending messages, or using data. This guide helps you diagnose and fix common problems.
+
+Basic Troubleshooting Steps
+
+Step 1: Check Your Network Connection Status
+1. Look at your phone's status bar
+2. Check for signal bars (should have 2+ bars for decent connection)
+3. Check for network type indicator (4G, 5G, LTE, 3G)
+4. If no signal, try moving to a different location
+
+Step 2: Toggle Airplane Mode
+1. Enable Airplane Mode (usually in Quick Settings)
+2. Wait 10 seconds
+3. Disable Airplane Mode
+4. Wait 15 seconds for reconnection
+5. Check if you have signal now
+
+Step 3: Restart Your Device
+1. Power off your phone completely
+2. Wait 30 seconds
+3. Power it back on
+4. Wait for network to reconnect (usually takes 20-30 seconds)
+
+Step 4: Check Service Status
+1. Visit status.telecom.com
+2. Enter your area code
+3. Check if there are outages in your area
+4. If outage exists, wait for service restoration
+
+Common Network Issues and Solutions
+
+Weak Signal Despite Multiple Bars
+- Solution: Move to higher ground or away from buildings
+- Check if you're in a basement or underground area
+- Try connecting to WiFi as alternative
+
+No Service in Specific Location
+- This could be a coverage gap
+- Move to nearby location
+- Try WiFi calling if available
+- Call support to check coverage in your exact area
+
+4G/5G Not Working, Falls Back to 3G
+- Check if 4G/5G is enabled in Phone Settings > Network
+- Toggle it off and on again
+- Restart phone
+- Check if tower maintenance is happening (check status.telecom.com)
+
+Data Not Working But Calls Work
+- Check if "Mobile Data" is enabled in Settings
+- In iOS: Settings > Cellular > Cellular Data
+- In Android: Settings > Network > Mobile Data
+- Try airplane mode toggle
+- Check APN (Access Point Name) settings
+
+Cannot Make Calls on WiFi
+- Enable WiFi Calling in Phone Settings
+- Ensure WiFi Calling is supported on your plan
+- Verify WiFi is properly connected
+- Restart both WiFi and phone
+
+Advanced Troubleshooting
+
+Resetting Network Settings (Nuclear Option)
+1. This will clear all saved networks and settings
+2. In iOS: Settings > General > Reset > Reset Network Settings
+3. In Android: Settings > About > Reset > Reset Network Settings
+4. You'll lose saved WiFi passwords - write them down first
+5. Reconnect to WiFi and mobile network
+
+Checking APN Configuration
+1. iOS devices auto-configure APN (no manual needed)
+2. Android: Settings > Network > Mobile Network > Access Point Names
+3. APN should be set to "telecom" by default
+4. If missing, contact support for correct APN values
+
+When to Contact Support
+- Issue persists after all above steps
+- Error codes appearing (provide exact code to support)
+- Outage confirmed in your area but not resolving
+- VoLTE or WiFi Calling not working on your plan
+
+Support Contact
+- Call: 1-800-NETWORK (1-800-639-8765)
+- Chat: Available in the mobile app
+- Email: support@telecom.com
+- Twitter: @TelecomSupport for quick response

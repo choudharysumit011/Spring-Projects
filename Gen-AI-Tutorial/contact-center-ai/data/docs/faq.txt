@@ -1,0 +1,88 @@
+Frequently Asked Questions (FAQs)
+
+Account Questions
+
+Q: How do I change my plan?
+A: Log in to myaccount.telecom.com, go to "Plans & Add-ons", select your desired plan, and follow the prompts. Changes take effect on your next billing cycle. You can also call support at 1-800-HELP-NOW.
+
+Q: Can I downgrade my plan?
+A: Yes, you can downgrade anytime. Downgrade takes effect on next billing cycle. No early termination fee applies. You'll be credited for unused portion of current plan if eligible.
+
+Q: What happens if I go over my data limit?
+A: Once you exceed your monthly allowance, you can either purchase additional data or incur overage charges ($15 per 1GB). You'll receive alerts before this happens.
+
+Q: Can I pause my service?
+A: Yes, you can pause for up to 3 months without losing your phone number. No charges during pause. To resume, log in to your account or call support.
+
+Q: How do I port my number to another carrier?
+A: Request a port-out authorization code from customer support. Provide this code to your new carrier. The process typically takes 24 hours. No fee charged.
+
+Technical Questions
+
+Q: Which phones are compatible with your network?
+A: Any unlocked GSM phone or any CDMA phone sold in the US is compatible. Check our device compatibility tool at myaccount.telecom.com/devices.
+
+Q: Do you support international calls?
+A: Yes! Rates vary by country. Call +1-800-INTL-CALL for current rates. International plans starting at $10/month are available.
+
+Q: Is WiFi calling available on my plan?
+A: WiFi calling is included on most plans. Enable it in Settings > WiFi Calling. You need WiFi connection to use this feature.
+
+Q: What is 5G and do I have access?
+A: 5G is our latest network technology offering faster speeds. Check your area coverage and device compatibility at coverage.telecom.com. Most recent phones support 5G.
+
+Service Issues
+
+Q: Why is my internet slow?
+A: Slow speeds can be due to: network congestion, weak signal, too many connected devices, or background apps. Try restarting your device, toggling airplane mode, or moving closer to a strong signal area.
+
+Q: What should I do if I have no service?
+A: First, toggle airplane mode on/off. Then restart your device. Check coverage map at coverage.telecom.com. Call support if issue persists.
+
+Q: How do I report a network outage?
+A: Every issue you report helps us improve. Use the mobile app to report outages with your location. Outage information is available at status.telecom.com.
+
+Billing Questions
+
+Q: When is my bill due?
+A: Your bill is due 20 days from the invoice date, shown on your statement.
+
+Q: Can I change my billing date?
+A: Yes, contact billing support at 1-800-BILL-NOW to change your billing date.
+
+Q: What is an early termination fee?
+A: If you cancel a contract before its end date, an early termination fee applies (up to $200). This doesn't apply if you switch plans within our service.
+
+Q: Do you offer seniors or student discounts?
+A: Limited discounts available. Call 1-800-HELP-NOW to discuss options.
+
+Q: Can I request an itemized bill?
+A: Yes, request at myaccount.telecom.com or call 1-800-BILL-NOW. Itemized bills show all charges in detail.
+
+Billing Troubleshooting
+
+Q: My bill is higher than expected. Why?
+A: Common reasons: overage charges, new add-ons, upgrade to paid features, or special promotional period ending. Review detailed bill view to identify charges.
+
+Q: How do I dispute a charge?
+A: Call 1-800-BILL-NOW within 30 days of the charge. Provide specific details about the disputed charge.
+
+General Questions
+
+Q: What is your customer service phone number?
+A: Our main support number is 1-800-HELP-NOW (1-800-435-5669). Hours vary by service type.
+
+Q: Do you have 24/7 support?
+A: Chat and automated payment support available 24/7. Live support available 8am-10pm EST.
+
+Q: How can I upgrade my device?
+A: Visit any physical store or upgrade online at shop.telecom.com. Bring your account number when visiting in-store.
+
+Q: Is my data encrypted?
+A: Yes, all data transmitted through our network is encrypted using industry-standard protocols.
+
+Q: What is your privacy policy?
+A: Full privacy policy available at telecom.com/privacy. We never sell your personal data to third parties.
+
+Q: How do I contact you on social media?
+A: Find us on Facebook (@TelecomOfficial), Twitter (@TelecomSupport), Instagram (@TelecomService). Support team monitors messages during business hours. For urgent issues, call 1-800-HELP-NOW.
